@@ -1,22 +1,46 @@
-# Hi there 👋, I'm G. Rassia  
+# 🌸 Hi, I'm Rassia! 👩‍💻  
+**B.Com CA Graduate | Aspiring Web Developer | Lifelong Learner**  
 
-### 🌟 About Me  
-- 🎓 B.Com (Computer Applications) graduate from Salem  
-- 💻 Aspiring Web Developer | Interested in coding & technology  
-- 🌱 Currently learning *Web Development & Problem Solving*  
-- 🤝 Open to collaboration on projects and learning opportunities  
+---
 
-### 🛠 Skills  
-- Web Development (HTML, CSS, JavaScript)  
-- Computer Applications & Programming Concepts  
-- Problem Solving & Leadership  
+### 🚀 About Me  
+- 🎓 Recently graduated in **B.Com Computer Applications**  
+- 💻 Passionate about **Web Development & Programming**  
+- 🌱 Currently learning **JavaScript, PHP & MySQL**  
+- 🤝 Open to collaborate on **student projects & web apps**  
 
-### 📂 Projects  
-- [Portfolio Website](#) (coming soon)  
-- [Sample Web Projects](#)  
+---
+
+### 🛠️ Skills  
+- **Web Technologies:** HTML, CSS, JavaScript, PHP, MySQL  
+- **Programming:** C, C++, Java (basic)  
+- **Tools:** Git, MS Office  
+- **Other Skills:** Leadership, Problem Solving, Teamwork  
+
+---
+
+### 📌 Projects  
+- 🌐 **Student Management System** – Simple project for managing student data  
+- 📄 **Portfolio Website** – Personal portfolio showcasing skills and projects  
+- 🛒 **Mini E-Commerce Site** – Basic shopping cart with PHP & MySQL  
+
+---
+
+### 🌟 My Goals  
+✔️ Become a **Full-Stack Web Developer**  
+✔️ Work in a reputed IT company  
+✔️ Keep improving my coding and communication skills  
+
+---
 
 ### 📫 Connect with Me  
-- Email: *rassiag9@gmail.com*  
-- Phone: *9789519985*  
--# rassia-dev
-Hi! I'am Rassia A B.Com (CA) purusing exploring the world of web development. I Love coding  learning new tools,and working on projects that make life easier. Always open to collaboration and new opportunities
+- 📧 Email: **rassiag9@gmail.com**  
+- 📱 Mobile: **9789519985**  
+- 🔗 [LinkedIn Profile](#) *(add later)*  
+
+---
+
+✨ *“Learning never stops, and every code is a new step toward success.”* ✨  
+
+
+
