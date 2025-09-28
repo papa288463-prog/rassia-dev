@@ -36,7 +36,7 @@
 ### 📫 Connect with Me  
 - 📧 Email: **rassiag9@gmail.com**  
 - 📱 Mobile: **9789519985**  
-- 🔗 [LinkedIn Profile](#) *(add later)*  
+- 🔗 [LinkedIn Profile](#) *(Rassia g)*  
 
 ---
 
