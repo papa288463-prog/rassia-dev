@@ -15,7 +15,9 @@
 - **Web Technologies:** HTML, CSS, JavaScript, PHP, MySQL  
 - **Programming:** C, C++, Java (basic)  
 - **Tools:** Git, MS Office  
-- **Other Skills:** Leadership, Problem Solving, Teamwork  
+- **Other Skills:** Leadership, Problem Solving, Teamwork
+- **Digital Marketing;**
+- **Python;**  
 
 ---
 
